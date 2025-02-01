@@ -5,11 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ae9d3e5e-07a1-4c43-b4ea-f17ca351a019" name="Changes" comment="Fixed views">
+      <change afterPath="$PROJECT_DIR$/movies/templates/movies/edit_review.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accounts/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/djangoProject/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/djangoProject/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djangoProject/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoProject/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movies/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/movies/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movies/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/movies/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movies/templates/movies/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/movies/templates/movies/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movies/templates/movies/show.html" beforeDir="false" afterPath="$PROJECT_DIR$/movies/templates/movies/show.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movies/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/movies/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movies/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/movies/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +34,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="sarahLogin&amp;Signup" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -67,7 +72,7 @@
     "RunOnceActivity.pycharm.django.structure.promotion.once.per.project": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "django.template.preview.state": "SHOW_EDITOR_AND_PREVIEW",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "brantAddReviews",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/sarah/OneDrive/Documents/GitHub/Project-1",
     "node.js.detected.package.eslint": "true",
@@ -132,6 +137,15 @@
       <workItem from="1738187737475" duration="1328000" />
       <workItem from="1738289314279" duration="4597000" />
     </task>
+    <task id="LOCAL-00001" summary="Fixed views">
+      <option name="closed" value="true" />
+      <created>1738437241925</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1738437241925</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
