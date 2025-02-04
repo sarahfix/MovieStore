@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae9d3e5e-07a1-4c43-b4ea-f17ca351a019" name="Changes" comment="Fixed views">
-      <change afterPath="$PROJECT_DIR$/cart/templates/cart/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cart/templatetags/cart_filters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cart/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cart/utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Project-1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Project-1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djangoProject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoProject/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djangoProject/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/djangoProject/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djangoProject/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoProject/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movies/templates/movies/show.html" beforeDir="false" afterPath="$PROJECT_DIR$/movies/templates/movies/show.html" afterDir="false" />
-    </list>
+    <list default="true" id="ae9d3e5e-07a1-4c43-b4ea-f17ca351a019" name="Changes" comment="Fixed views" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,7 +64,7 @@
     "RunOnceActivity.pycharm.django.structure.promotion.once.per.project": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "django.template.preview.state": "SHOW_EDITOR_AND_PREVIEW",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "TESTdemo",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/sarah/OneDrive/Documents/GitHub/Project-1",
     "node.js.detected.package.eslint": "true",
