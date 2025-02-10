@@ -1,11 +1,18 @@
+.bg-index {
+  background: url("djangoProject/static/img/gradient.jpg") no-repeat fixed;
+  background-size: 100% auto;
+}
 .navbar a.nav-link {
   color: #FFFEF6 !important;
 }
 .bg-dark {
-  background-color: #2E2E2E !important;
+  background-color: lightpink !important;
+}
+.bg-pink {
+  background-color: lightpink;
 }
 .ms-footer {
-  background-color: #202020;
+  background-color: lightpink;
 }
 .ms-footer p {
   color: #7F7F7F;
