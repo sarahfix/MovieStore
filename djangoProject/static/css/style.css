@@ -1,30 +1,38 @@
 .bg-index {
   background: url("djangoProject/static/img/gradient.jpg") no-repeat fixed;
-  background-size: 100% auto;
+  background-size: cover;
+  font-family: "Georgia", serif;
 }
 .navbar a.nav-link {
   color: #FFFEF6 !important;
+  font-family: "Georgia", serif;
 }
 .bg-dark {
   background-color: lightpink !important;
+  font-family: "Georgia", serif;
 }
 .bg-pink {
   background-color: lightpink;
+  font-family: "Georgia", serif;
 }
 .ms-footer {
   background-color: lightpink;
+  font-family: "Georgia", serif;
 }
 .ms-footer p {
   color: #7F7F7F;
   font-size: 13px;
+  font-family: "Georgia", serif;
 }
 .ms-footer a:hover {
   color: #6ab43e;
   text-decoration: none;
+  font-family: "Georgia", serif;
 }
 .ms-footer-bottom span{
   font-size: 13px;
   line-height: 38px;
+  font-family: "Georgia", serif;
 }
 .ms-footer-bottom a {
   color: #afd49a;
@@ -32,6 +40,7 @@
 }
 .ms-footer-bottom a:hover {
   color: #fff;
+  font-family: "Georgia", serif;
 }
 .img-card-200 {
   width: fit-content;
