@@ -1,6 +1,12 @@
 .bg-index {
-  background: url("djangoProject/static/img/gradient.jpg") no-repeat fixed;
+  background-image: url(/djangoProject/static/img/gradient.jpg);
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
   background-size: cover;
+  font-family: "Georgia", serif;
+}
+.p-3 {
   font-family: "Georgia", serif;
 }
 .navbar a.nav-link {

@@ -43,7 +43,10 @@
             <a class="nav-link"
               href="{% url 'movies.index' %}">Movies</a>
             <a class="nav-link"
-              href="{% url 'cart.index' %}">Cart</a>
+              href="{% url 'cart.index' %}">Cart</a><a class="nav-link"
+              href="{% url 'accounts.orders' %}">
+              Orders
+            </a>
             <div class="vr bg-white mx-2 d-none
               d-lg-block"></div>
                 {% if user.is_authenticated %}
@@ -90,7 +93,10 @@
               href="{% url 'movies.index' %}">
               Movies
             </a><a class="nav-link"
-              href="{% url 'cart.index' %}">Cart</a>
+              href="{% url 'cart.index' %}">Cart</a><a class="nav-link"
+              href="{% url 'accounts.orders' %}">
+              Orders
+            </a>
             </p>
           </div>
           <div class="col-md-3 col-lg-3 col-xl-3 mx-auto
